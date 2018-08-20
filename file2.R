@@ -1,0 +1,15 @@
+plot(women)
+?women
+?mtcars
+install.packages('car')
+x=1:100
+x
+y=seq(1,100,by=2)
+y
+?car
+data()
+?ChickWeight
+ChickWeight
+install.packages('swirl')
+install.packages('MASS')
+install.packages('ggplot')
